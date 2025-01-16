@@ -1,16 +1,28 @@
-## Hi there 👋
+# Majd Jamal Saleh Al-Hodali  
 
-<!--
-**Justmajd/Justmajd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Game Developer**  
+Passionate about creating immersive and engaging experiences using **Godot** and **Unity**. Based in **Irbid, Jordan**, I specialize in bringing ideas to life through interactive gameplay and cutting-edge art styles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills  
+
+- **Game Engines**: Godot, Unity  
+- **Programming Languages**: C#, GDScript, C++  
+
+---
+
+## 💻 Projects  
+
+### Bracken Gaming Club  
+As the **Head of Bracken Gaming Club**, I lead initiatives to support undergraduates in navigating the game development industry.  
+We provide insightful courses in game development and foster a community for aspiring developers.  
+
+---
+
+## 🎓 Education  
+
+- **Undergraduate in Computer Science**  
+  Jadara University  
+
+---
