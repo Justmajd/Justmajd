@@ -17,7 +17,7 @@ Passionate about creating immersive and engaging experiences using **Godot** and
 As the **Head of Bracken Gaming Club**, I lead initiatives to support undergraduates in navigating the game development industry.  
 We provide insightful courses in game development and foster a community for aspiring developers.  
 
-### Working on A Secrect Project 😉
+### Working on A Secret Project 😉
 
 
 ## 🎓 Education  
