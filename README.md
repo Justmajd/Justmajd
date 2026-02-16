@@ -1,6 +1,6 @@
 # Majd Jamal Saleh Al-Hodali  
 
-**Senior Game Developer**  
+**Junior Game Developer**  
 Passionate about creating immersive and engaging experiences using **Godot** and **Unity**. Based in **Irbid, Jordan**, I specialize in bringing ideas to life through interactive gameplay and cutting-edge art styles.
 
 
