@@ -11,11 +11,7 @@ Here are some of the languages and tools I work with:
 
 ## 🚀 Featured Projects
 
-### 🎮 Game Development
-- [**Game-jam-dimensions**](https://github.com/Justmajd/Game-jam-dimensions) & [**MathZoo**](https://github.com/Justmajd/MathZoo) & [**robocraft-booth**](https://github.com/Justmajd/robocraft-booth) - Various game development projects and game jam entries built using GDScript.
-
 ### 🌐 Web & App Development
-- [**My-website-portfolio**](https://github.com/Justmajd/My-website-portfolio) - My personal portfolio website built with JavaScript.
 - [**zoom-app**](https://github.com/Justmajd/zoom-app) - An application built with TypeScript.
 - [**42-bus-website**](https://github.com/Justmajd/42-bus-website) - A web project built with JavaScript.
 
