@@ -2,20 +2,33 @@
   <img src="./assets/terminal.svg" alt="Majd's terminal profile" width="100%" />
 </p>
 
-## About me
+## Developer character sheet
 
-I’m a developer who learns by making things. I enjoy moving between web experiences, game ideas, low-level programming, and the small details that make a project click. I’m most at home when I’m exploring, building, and figuring out how something works.
+| | |
+| :-- | :-- |
+| **Class** | Developer / Builder |
+| **Primary quest** | Turn ideas into things people can use or play |
+| **Favourite terrain** | Web, games, systems, and creative problem-solving |
+| **Special ability** | Learning by building |
+| **Current status** | <code>curious</code> · <code>shipping</code> · <code>still learning</code> |
 
-## Toolbox
+## Loadout
 
 ```text
-Web        JavaScript · TypeScript · CSS
-Games      Unity · Godot · GDScript
-Systems    C · C++ · C# · Shell
-Scripting  Python
+WEB        JavaScript · TypeScript · CSS
+GAME DEV   Unity · Godot · GDScript
+SYSTEMS    C · C++ · C# · Shell
+SCRIPTING  Python
 ```
 
-## Mindset
+## Quest log
+
+```text
+[✓] Turn curiosity into projects
+[✓] Explore web, games, and systems
+[~] Learn the foundations behind the tools
+[ ] Reach the end of the learning tree
+```
 
 > Build the idea. Learn the why. Improve the next version.
 
