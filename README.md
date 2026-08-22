@@ -58,4 +58,3 @@
 <div align="center">
   <sub>Open to learning, building, and interesting problems.</sub>
 </div>
-
