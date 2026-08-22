@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="410" viewBox="0 0 960 410" role="img" aria-labelledby="title desc">
   <title id="title">Majd's terminal profile</title>
   <desc id="desc">A dark terminal window introducing Majd as a developer.</desc>
-  <rect width="960" height="320" rx="18" fill="#0d1117"/>
-  <rect x="1" y="1" width="958" height="318" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+  <rect width="960" height="410" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="958" height="408" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
   <path d="M18 58h924" stroke="#30363d" stroke-width="2"/>
   <circle cx="34" cy="30" r="7" fill="#ff5f57"/>
   <circle cx="58" cy="30" r="7" fill="#febc2e"/>
@@ -10,7 +10,14 @@
   <text x="480" y="36" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" text-anchor="middle">majd@github — profile</text>
   <text x="42" y="102" fill="#39ff88" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">$ whoami</text>
   <text x="42" y="142" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="31" font-weight="700">Majd — developer, builder, curious by default.</text>
-  <text x="42" y="187" fill="#00d9ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">$ interests</text>
-  <text x="42" y="218" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">web · games · systems · creative problem-solving</text>
-  <text x="42" y="264" fill="#ff4fd8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">$ learning by building_</text>
+  <text x="42" y="187" fill="#00d9ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">$ loadout</text>
+  <text x="42" y="220" fill="#39ff88" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">WEB</text>
+  <text x="180" y="220" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">JavaScript · TypeScript · CSS</text>
+  <text x="42" y="250" fill="#ff4fd8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">GAME DEV</text>
+  <text x="180" y="250" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Unity · Godot · GDScript</text>
+  <text x="42" y="280" fill="#ffbc4a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">SYSTEMS</text>
+  <text x="180" y="280" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">C · C++ · C# · Shell</text>
+  <text x="42" y="310" fill="#00d9ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">SCRIPTING</text>
+  <text x="180" y="310" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Python</text>
+  <text x="42" y="360" fill="#ff4fd8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">$ learning by building_</text>
 </svg>

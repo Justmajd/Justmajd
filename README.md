@@ -12,15 +12,6 @@
 | **Special ability** | Learning by building |
 | **Current status** | <code>curious</code> · <code>shipping</code> · <code>still learning</code> |
 
-## Loadout
-
-```text
-WEB        JavaScript · TypeScript · CSS
-GAME DEV   Unity · Godot · GDScript
-SYSTEMS    C · C++ · C# · Shell
-SCRIPTING  Python
-```
-
 ## Quest log
 
 ```text
