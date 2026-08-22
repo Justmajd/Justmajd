@@ -1,90 +1,60 @@
-# Hi there 👋, I'm Majd!
+<div align="center">
 
-Welcome to my GitHub profile! I'm a developer with a wide range of interests, from building web applications to exploring game development and low-level programming. 
+![terminal](https://img.shields.io/badge/majd%40github%3A~%24-whoami-39ff14?style=for-the-badge&labelColor=101010)
 
-## 🛠️ Skills & Technologies
-Here are some of the languages and tools I work with:
-- **Web Development:** JavaScript, TypeScript, CSS
-- **Game Development:** GDScript (Godot Engine)
-- **Systems & Low-Level:** C, Shell
-- **Scripting:** Python
+# Majd
 
-## 🚀 Featured Projects
+![Developer](https://img.shields.io/badge/Developer-39ff14?style=flat-square&labelColor=101010)
+![Builder](https://img.shields.io/badge/Builder-00d9ff?style=flat-square&labelColor=101010)
+![Curious](https://img.shields.io/badge/Curious_by_default-ff4fd8?style=flat-square&labelColor=101010)
 
-### 🌐 Web & App Development
-- [**zoom-app**](https://github.com/Justmajd/zoom-app) - An application built with TypeScript.
-- [**42-bus-website**](https://github.com/Justmajd/42-bus-website) - A web project built with JavaScript.
+</div>
 
-### 💻 Low-Level & Algorithms
-- [**push_swap**](https://github.com/Justmajd/push_swap) - An algorithmic sorting project written in C, part of the 42 curriculum.
-- [**Rush-square**](https://github.com/Justmajd/Rush-square) - Another C programming challenge.
+```diff
++ majd@github:~$ cat about.txt
++ I learn by making things.
 
-### 🧩 CTF & Fundamentals
-- [**MazeCTF**](https://github.com/Justmajd/MazeCTF) - A Capture The Flag (CTF) project/challenge written in Python.
-- [**shell-fundementals**](https://github.com/Justmajd/shell-fundementals) & [**git-Fundamentals**](https://github.com/Justmajd/git-Fundamentals) - Repositories focused on mastering the command line and version control basics.
+! One day I might be building a web experience; the next, working through
+! an algorithm, experimenting with a game idea, or getting closer to how a
+! system works under the surface.
 
----
++ I like turning rough ideas into something real, useful, and fun to explore.
+```
 
-Feel free to explore my repositories, and let me know if you'd like to collaborate or connect! # Hi there 👋, I'm Majd!
+## ~/interests
 
-Welcome to my GitHub profile! I'm a developer with a wide range of interests, from building web applications to exploring game development and low-level programming. 
+<div align="center">
 
-## 🛠️ Skills & Technologies
-Here are some of the languages and tools I work with:
-- **Web Development:** JavaScript, TypeScript, CSS
-- **Game Development:** GDScript (Godot Engine)
-- **Systems & Low-Level:** C, Shell
-- **Scripting:** Python
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=101010)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=101010)
+![C](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=101010)
+![C++](https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 🚀 Featured Projects
+</div>
 
-### 🎮 Game Development
-- [**Game-jam-dimensions**](https://github.com/Justmajd/Game-jam-dimensions) & [**MathZoo**](https://github.com/Justmajd/MathZoo) & [**robocraft-booth**](https://github.com/Justmajd/robocraft-booth) - Various game development projects and game jam entries built using GDScript.
+```diff
++ web development        JavaScript · TypeScript · CSS
+! game development       Godot · GDScript
+- systems programming    C · Shell
++ scripting              Python
+```
 
-### 🌐 Web & App Development
-- [**My-website-portfolio**](https://github.com/Justmajd/My-website-portfolio) - My personal portfolio website built with JavaScript.
-- [**zoom-app**](https://github.com/Justmajd/zoom-app) - An application built with TypeScript.
-- [**42-bus-website**](https://github.com/Justmajd/42-bus-website) - A web project built with JavaScript.
+## ~/currently-building
 
-### 💻 Low-Level & Algorithms
-- [**push_swap**](https://github.com/Justmajd/push_swap) - An algorithmic sorting project written in C, part of the 42 curriculum.
-- [**Rush-square**](https://github.com/Justmajd/Rush-square) - Another C programming challenge.
+```diff
++ [✓] Exploring ideas through code
++ [✓] Learning the foundations behind the tools I use
+! [✓] Making projects that are practical, playful, and challenging
+- [ ] Done learning
 
-### 🧩 CTF & Fundamentals
-- [**MazeCTF**](https://github.com/Justmajd/MazeCTF) - A Capture The Flag (CTF) project/challenge written in Python.
-- [**shell-fundementals**](https://github.com/Justmajd/shell-fundementals) & [**git-Fundamentals**](https://github.com/Justmajd/git-Fundamentals) - Repositories focused on mastering the command line and version control basics.
++ majd@github:~$ _
+```
 
----
-
-Feel free to explore my repositories, and let me know if you'd like to collaborate or connect! # Hi there 👋, I'm Majd!
-
-Welcome to my GitHub profile! I'm a developer with a wide range of interests, from building web applications to exploring game development and low-level programming. 
-
-## 🛠️ Skills & Technologies
-Here are some of the languages and tools I work with:
-- **Web Development:** JavaScript, TypeScript, CSS
-- **Game Development:** GDScript (Godot Engine)
-- **Systems & Low-Level:** C, Shell
-- **Scripting:** Python
-
-## 🚀 Featured Projects
-
-### 🎮 Game Development
-- [**Game-jam-dimensions**](https://github.com/Justmajd/Game-jam-dimensions) & [**MathZoo**](https://github.com/Justmajd/MathZoo) & [**robocraft-booth**](https://github.com/Justmajd/robocraft-booth) - Various game development projects and game jam entries built using GDScript.
-
-### 🌐 Web & App Development
-- [**My-website-portfolio**](https://github.com/Justmajd/My-website-portfolio) - My personal portfolio website built with JavaScript.
-- [**zoom-app**](https://github.com/Justmajd/zoom-app) - An application built with TypeScript.
-- [**42-bus-website**](https://github.com/Justmajd/42-bus-website) - A web project built with JavaScript.
-
-### 💻 Low-Level & Algorithms
-- [**push_swap**](https://github.com/Justmajd/push_swap) - An algorithmic sorting project written in C, part of the 42 curriculum.
-- [**Rush-square**](https://github.com/Justmajd/Rush-square) - Another C programming challenge.
-
-### 🧩 CTF & Fundamentals
-- [**MazeCTF**](https://github.com/Justmajd/MazeCTF) - A Capture The Flag (CTF) project/challenge written in Python.
-- [**shell-fundementals**](https://github.com/Justmajd/shell-fundementals) & [**git-Fundamentals**](https://github.com/Justmajd/git-Fundamentals) - Repositories focused on mastering the command line and version control basics.
-
----
-
-Feel free to explore my repositories, and let me know if you'd like to collaborate or connect! 
+<div align="center">
+  <sub>Open to learning, building, and interesting problems.</sub>
+</div>
